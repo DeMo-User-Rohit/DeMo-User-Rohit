@@ -33,6 +33,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitpaul-developer&theme=highcontrast" alt="rohitpaul-developer" /></p>
 <a href="https://github.com/rohitpaul-developer">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitpaul-developer&theme=algolia" height="180em" />
 </div>

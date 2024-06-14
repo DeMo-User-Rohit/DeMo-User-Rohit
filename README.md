@@ -33,8 +33,8 @@
 <div align="center">
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitpaul-developer&theme=highcontrast" alt="rohitpaul-developer" /></p>
 <a href="https://github.com/rohitpaul-developer">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohitpaul-developer&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitpaul-developer&theme=algolia" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohitpaul-developer&theme=highcontrast" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitpaul-developer&theme=highcontrast" height="180em" />
 </div>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
